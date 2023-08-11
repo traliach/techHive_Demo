@@ -5,11 +5,12 @@ Pre Requisite Software Download/ Registration :
 ❖ Install git bash @ https://git-scm.com/downloads
 
                             Git Commands
-
 When you install Git-bash, the first thing you should be doing is setting up your user details as follows only one time.
 
 #git config --global user.name "YourUsername"
 #git config --global user.email "your.email.com"
+
+
 Goal: 1: Create the git local repository in local machine (Laptop/Desktop), 
 create a directory techHive_Demo and add a file name UTechD.txt 
 create the github remote repository (https://github.com) and move the local code to github repository.
