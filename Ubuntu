@@ -1,0 +1,12 @@
+GitHub Administration
+
+Pre Requisite Software Download/ Registration :
+❖ Register @ https://github.com/
+❖ Install git bash @ https://git-scm.com/downloads
+
+                            Git Commands
+
+When you install Git-bash, the first thing you should be doing is setting up your user details as follows only one time.
+
+#git config --global user.name "YourUsername"
+#git config --global user.email "your.email.com"
